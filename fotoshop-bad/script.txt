@@ -1,0 +1,13 @@
+open input.jpg
+look
+rot90
+look
+save output.jpg
+put toto
+look
+mono
+rot90
+look
+save yolo.jpg
+get input.jpg
+look

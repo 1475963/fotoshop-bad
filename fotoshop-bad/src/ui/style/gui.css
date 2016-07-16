@@ -1,0 +1,40 @@
+.button {
+    -fx-background-color: #424242;
+    -fx-border-color: #202020;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.button:hover {
+    -fx-background-color: #A8A8A8;
+    -fx-text-fill: black;
+}
+
+.image-view {
+    -fx-background-color: #424242;
+    -fx-border-color: #202020;
+}
+
+.border-pane-center {
+    -fx-background-color: #424242;
+    -fx-border-color: #202020;
+}
+
+.list-view {
+    -fx-background-color: #424242;
+    -fx-border-color: #202020;
+}
+
+.list-cell:odd {
+    -fx-background-color: #424242;
+    -fx-border-color: #202020;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.list-cell:even {
+    -fx-background-color: #505050;
+    -fx-border-color: #252525;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
